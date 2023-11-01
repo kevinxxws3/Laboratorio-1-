@@ -1,3 +1,6 @@
+# Resolucion del primer ejercisio de laboratorio 1
+# Comprobación de suma de dígitos
+
 import random
 
 def generar_numero_aleatorio():
